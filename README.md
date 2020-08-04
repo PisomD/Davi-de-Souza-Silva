@@ -24,10 +24,11 @@
   &nbsp&nbsp&nbsp&nbsp<p>Atualmente sou estagiário na <b>Fatec Santana de Parnaíba</b> onde já ganhei algumas experiências com manutenção de Redes de computadores, instalação e manutenção de equipamentos, noções de servidor entre outras atividades pretendo antes de terminar o estágio desenvolver alguns programas para facilitar algumas atividades que faço manualmente hoje.
 </p>
 <h2> Estudos</h2>
-  &nbsp&nbsp&nbsp&nbsp<p>Para conquistar meus Objetivos estou basicamente estudando este Roadmap <a href="https://roadmap.sh/backend">Road map Back-end</a> foi a melhor forma de organizar meus estudos, atualmente estou aprendo um pouco destas técnologias:
+  &nbsp&nbsp&nbsp&nbsp<p>Para conquistar meus Objetivos estou basicamente estudando este <a href="https://roadmap.sh/backend">Road map Back-end</a>, Está foi a melhor forma de organizar meus estudos e atualmente estou aprendo um pouco destas técnologias:
   <ol>Linux (bash e conceitos de servidor
     <ol>Git e GitHub 
       <ol>Java Script,CSS,HTML5
         <ol>python3
+           <ol>C
 </ul>
          <h2> É isso até +</h2>
