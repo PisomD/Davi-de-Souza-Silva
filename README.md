@@ -10,7 +10,7 @@
  <br/> :email: &nbsp; Entre em contato comigo: 
  [Linkedin](https://www.linkedin.com/in/davi-souza-silva-ab329a109/) | [Email](mailto:davi.silva41@fatec.sp.gov.br)
 
-<h2>Sobre mim<h2>
+<h2>Sobre mim</h2>
 <p>Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, busco conhecimentos sobre o universo da tecnologia
    </p>
    <p>Desde criança tive contato com computadores e dispositivos eletrônicos, pois meu pai tinha uma eletrônica então desde cedo tive contatos com o meu primeiro computador com Windows (se não me engano foi o 95) e dai por diante não parei mais, claro que a minha grande mudança foi quando entrei para a Etec no centro de Santana de Parnaíba, onde tive o meu primeiro contato com a programação.
