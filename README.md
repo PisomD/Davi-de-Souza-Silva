@@ -11,9 +11,9 @@
  [Linkedin](https://www.linkedin.com/in/davi-souza-silva-ab329a109/) | [Email](mailto:davi.silva41@fatec.sp.gov.br)
 
 <h2>Sobre mim<h2>
-<p>&nbsp&nbsp&nbsp&nbspEstudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, busco conhecimentos sobre o universo da tecnologia
+<p>Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, busco conhecimentos sobre o universo da tecnologia
    </p>
-<p>&nbsp&nbsp&nbsp&nbspDesde criança tive contato com computadores e dispositivos eletrônicos, pois meu pai tinha uma eletrônica então desde cedo tive contatos com o meu primeiro computador com Windows (se não me engano foi o 95) e dai por diante não parei mais, claro que a minha grande mudança foi quando entrei para a Etec no centro de Santana de Parnaíba, onde tive o meu primeiro contato com a programação.
+   <p>Desde criança tive contato com computadores e dispositivos eletrônicos, pois meu pai tinha uma eletrônica então desde cedo tive contatos com o meu primeiro computador com Windows (se não me engano foi o 95) e dai por diante não parei mais, claro que a minha grande mudança foi quando entrei para a Etec no centro de Santana de Parnaíba, onde tive o meu primeiro contato com a programação.
    </p>
   <p>Como disse sempre gostei muito de computadores e com eles vieram os jogos <b>MMORPG</b>  que me acompanharam durante a infância, e desde então aprendi a customizar meus personagens, conhecer novos amigos, buscar com meus times um objetivo comum a todos, sempre em colaboração.</p>
     <p>&nbsp&nbsp&nbsp&nbspHoje me divirto muito mais com tecnologias <b>Open Source</b> onde você pode customizar todo o software a seu gosto.
