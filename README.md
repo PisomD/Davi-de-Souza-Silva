@@ -25,10 +25,10 @@
 </p>
 <h2> Estudos</h2>
   <p>&nbsp&nbsp&nbspPara conquistar meus Objetivos estou basicamente estudando este <a href="https://roadmap.sh/backend">Road map Back-end</a>, Está foi a melhor forma de organizar meus estudos e atualmente estou aprendo um pouco destas técnologias:
-  <ol>Linux (bash e conceitos de servidor
-    <ol>Git e GitHub 
-      <ol>Java Script,CSS,HTML5
-        <ol>python3
-           <ol>C
+  <ol><a href="https://pt.wikipedia.org/wiki/Bash">Linux (bash e conceitos de servidor)</a>
+     <ol><a href="https://pt.wikipedia.org/wiki/Git">Git</a> e <a href="https://pt.wikipedia.org/wiki/GitHub">GitHub</a> 
+        <ol><a href="https://pt.wikipedia.org/wiki/JavaScript">JavaScript</a>,<a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>,<a href="https://pt.wikipedia.org/wiki/HTML5">HTML5</a>
+           <ol><a href="https://pt.wikipedia.org/wiki/Python">python3</a>
+              <ol><a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">C</a>
 </ul>
          <h2> É isso até +</h2>
