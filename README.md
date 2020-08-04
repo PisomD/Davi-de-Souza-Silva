@@ -1,6 +1,33 @@
 # Davi-de-Souza-Silva
+## Olá Mundo! 👋
+Sou apaixonado Programação, tecnologia e Games.
+Sou um Back-end Developer :computer:
 
-<h2>Olá mundo! Bem-vindo(a) ao meu github!<h2>
+   &nbsp; Estou trabalhando na **Fatec Santana de Parnaíba**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back end usando Python3
+ <br/> :Estou aprendendo novas tecnologias para colaborar com a comunidade
+ <br/> :computer: &nbsp; Minha stack: C,Bash(linux),Python3, HTML5, CSS3, JAVASCRIPT.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MMORPG, LoL, Filmes, Músicas Animes e Seriados
+ <br/> :email: &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/davi-souza-silva-ab329a109/) 
+| 
+[Email](mailto:savi.silva41@fatec.sp.gov.br)
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
+
+# Thiago Marinho
+
+## Olá pessoal 👋
+Sou apaixonado pelo Universo da Tecnologia.
+Sou um Estudante de Análise e Desenvolvimento de Sistemas :computer:
+
+   &nbsp; Estou trabalhando na **Fatec Santana de Parnaíba**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando python3
+ <br/> :blush: &nbsp; Posso te ajudar com linux, e desenvolvendo back-end em C,python3
+ <br/> :computer: &nbsp; Minha stack: Bash(linux),C,Python3, Java, HTML5, CSS3.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MMORPG, LoL Filmes e animes.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Davi de Souza Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/davi-souza-silva-ab329a109/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[Gmail](mailto:davi.silva41@fatec.sp.gov.br)
 
 <h2>Sobre mim<h2>
     <p>&nbsp&nbsp&nbsp&nbspEstudante de <b>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</b>, busco conhecimentos sobre o universo da tecnologia</p>
@@ -10,10 +37,6 @@
     <p>&nbsp&nbsp&nbsp&nbspHoje me divirto muito mais com tecnologias <b>Open Source</b> onde você pode customizar todo o software a seu gosto.
     <br>Acredito que muitas pessoas ou empresas tem essa necessidade também de ter um software customizado para o seu uso. gosto de trabalhar em colaboração, ajudar outros colegas programadores a conseguir realizar o seu objetivo é muito diverto, é como derrotar um grande chefe, o desáfio pode ser grande mas a recompensa sempre é maior.</br>
     
-<h2> contatos</h2>
-<p><a href="davi.silva41@fatec.sp.gov.br">E-mail</a></p>
-<p><a href="https://www.linkedin.com/in/davi-souza-silva-ab329a109/">Linkedin</a></p>
-
 <h2>Trabalho</h2>
   &nbsp&nbsp&nbsp&nbspAtualmente sou estagiário na <b>Fatec Santana de Parnaíba</b> onde já ganhei algumas experiências com manutenção de Redes de computadores, instalação e manutenção de equipamentos, noções de servidor entre outras atividades pretendo antes de terminar o estágio desenvolver alguns programas para facilitar algumas atividades que faço manualmente hoje.
 
