@@ -16,8 +16,8 @@
    <p>&nbsp&nbsp&nbspDesde criança tive contato com computadores e dispositivos eletrônicos, pois meu pai tinha uma eletrônica onde tive contatos com o meu primeiro computador com Windows (se não me engano foi o Windows 95) e dai por diante não parei mais, claro que a minha grande mudança foi quando entrei para a Etec no centro de Santana de Parnaíba, onde tive o meu primeiro contato com a programação.
    </p>
   <p>&nbsp&nbsp&nbspComo disse sempre gostei muito de computadores e com eles vieram os jogos <b>MMORPG</b>  que me acompanharam durante a infância, e desde então aprendi a customizar meus personagens, conhecer novos amigos, buscar com meu time um objetivo em comum, sempre em colaboração. e isso era muito divertido</p>
-    <p>&nbsp&nbsp&nbspHoje me divirto muito mais com tecnologias <b>Open Source</b> onde você pode customizar todo o software a seu gosto.
-   <br>Acredito que muitas pessoas ou empresas tem essa necessidade também de ter um software customizado para o seu uso. gosto de trabalhar em colaboração, ajudar outros colegas programadores a conseguir realizar o seu objetivo é muito diverto, é como derrotar um grande chefe, o desáfio pode ser grande mas a recompensa sempre é maior.
+    <p>&nbsp&nbsp&nbspHoje me divirto muito mais com tecnologias <b>Open Source</b> onde você pode customizar todo o software e trabahar com colaboração.
+    <br>Gosto de trabalhar em colaboração, ajudar outros colegas programadores,buscar novos desafios, é como derrotar um grande "boss", o desafio pode ser grande mas a recompensa sempre é maior.
    </br></p>
     
 <h2>Trabalho</h2>
