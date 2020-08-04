@@ -24,7 +24,7 @@
   <p>&nbsp&nbsp&nbspAtualmente sou estagiário na <b>Fatec Santana de Parnaíba</b> onde já ganhei algumas experiências com manutenção de Redes de computadores, instalação e manutenção de equipamentos, noções de servidor entre outras atividades pretendo antes de terminar o estágio desenvolver alguns programas para facilitar algumas atividades que faço manualmente hoje.
 </p>
 <h2> Estudos</h2>
-  <p>&nbsp&nbsp&nbspPara conquistar meus Objetivos estou basicamente estudando este <a href="https://roadmap.sh/backend">Road map Back-end</a>, Está foi a melhor forma de organizar meus estudos e atualmente estou aprendo um pouco destas técnologias:
+  <p>&nbsp&nbsp&nbspPara conquistar meus Objetivos estou basicamente estudando este <a href="https://roadmap.sh/backend">Road map Back-end</a>, Está foi a melhor forma de organizar meus estudos e atualmente estou aprendo um pouco destas tecnologias:
   <ol><a href="https://pt.wikipedia.org/wiki/Bash">Linux (bash e conceitos de servidor)</a>
      <ol><a href="https://pt.wikipedia.org/wiki/Git">Git</a> e <a href="https://pt.wikipedia.org/wiki/GitHub">GitHub</a> 
         <ol><a href="https://pt.wikipedia.org/wiki/JavaScript">JavaScript</a>,<a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>,<a href="https://pt.wikipedia.org/wiki/HTML5">HTML5</a>
