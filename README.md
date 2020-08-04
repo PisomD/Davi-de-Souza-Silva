@@ -4,30 +4,12 @@ Sou apaixonado Programação, tecnologia e Games.
 Sou um Back-end Developer :computer:
 
    &nbsp; Estou trabalhando na **Fatec Santana de Parnaíba**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back end usando Python3
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Backend com Python3
  <br/> :Estou aprendendo novas tecnologias para colaborar com a comunidade
  <br/> :computer: &nbsp; Minha stack: C,Bash(linux),Python3, HTML5, CSS3, JAVASCRIPT.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MMORPG, LoL, Filmes, Músicas Animes e Seriados
- <br/> :email: &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/davi-souza-silva-ab329a109/) 
-| 
-[Email](mailto:savi.silva41@fatec.sp.gov.br)
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
-# Thiago Marinho
-
-## Olá pessoal 👋
-Sou apaixonado pelo Universo da Tecnologia.
-Sou um Estudante de Análise e Desenvolvimento de Sistemas :computer:
-
-   &nbsp; Estou trabalhando na **Fatec Santana de Parnaíba**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando python3
- <br/> :blush: &nbsp; Posso te ajudar com linux, e desenvolvendo back-end em C,python3
- <br/> :computer: &nbsp; Minha stack: Bash(linux),C,Python3, Java, HTML5, CSS3.
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MMORPG, LoL Filmes e animes.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Davi de Souza Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/davi-souza-silva-ab329a109/)](https://www.linkedin.com/in/tgmarinho/) 
-| 
-[Gmail](mailto:davi.silva41@fatec.sp.gov.br)
+ <br/> :email: &nbsp; Entre em contato comigo: 
+ [Linkedin](https://www.linkedin.com/in/davi-souza-silva-ab329a109/) | [Email](mailto:davi.silva41@fatec.sp.gov.br)
 
 <h2>Sobre mim<h2>
     <p>&nbsp&nbsp&nbsp&nbspEstudante de <b>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</b>, busco conhecimentos sobre o universo da tecnologia</p>
