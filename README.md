@@ -1,4 +1,4 @@
-# Davi-de-Souza-Silva
+# Davi de Souza Silva
 ## Olá Mundo! 👋
 ### Sou um Back-end Developer apaixonado por Programação, tecnologia e Games.
 
@@ -11,7 +11,7 @@
  [Linkedin](https://www.linkedin.com/in/davi-souza-silva-ab329a109/) | [Email](mailto:davi.silva41@fatec.sp.gov.br)
 
 <h2>Sobre mim<h2>
-    <p>&nbsp&nbsp&nbsp&nbspEstudante de <b>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</b>, busco conhecimentos sobre o universo da tecnologia</p>
+    <p>&nbsp&nbsp&nbsp&nbspEstudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, busco conhecimentos sobre o universo da tecnologia</p>
       <p>&nbsp&nbsp&nbsp&nbspDesde criança tive contato com computadores e dispositivos eletrônicos, pois meu pai tinha uma eletrônica então desde cedo tive contatos com o meu primeiro computador com Windows (se não me engano foi o 95) e dai por diante não parei mais, claro que a minha grande mudança foi quando entrei para a Etec no centro de Santana de Parnaíba, onde tive o meu primeiro contato com a programação.
       <br>&nbsp&nbsp&nbsp&nbspInfelizmente  não tive muitas oportunidades ou até mesmo não fui atrás delas com tanta garra, então eu acabei parando por um tempo, hoje eu sei o que eu quero, Construir minha carreira na área de TI.</br>
   <p>Como disse sempre gostei muito de computadores e com eles vieram os jogos <b>MMORPG</b>  que me acompanharam durante a infância, e desde então aprendi a customizar meus personagens, conhecer novos amigos, buscar com meus times um objetivo comum a todos, sempre em colaboração.
