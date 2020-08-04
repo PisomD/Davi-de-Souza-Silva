@@ -2,7 +2,7 @@
 ## Olá Mundo! 👋
 ### Sou um Back-end Developer apaixonado por Programação, tecnologia e Games.
 
-   &nbsp; Estou trabalhando de**estagiário** na **Fatec Santana de Parnaíba**
+   &nbsp; Estou trabalhando de **estagiário** na **Fatec Santana de Parnaíba**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end com Python3
  <br/> Estou aprendendo novas tecnologias para colaborar com a comunidade
  <br/> :computer: &nbsp; Minha stack: C, Bash(linux), Python3, HTML5, CSS3, JAVASCRIPT.
