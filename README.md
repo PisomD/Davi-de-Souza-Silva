@@ -1,12 +1,11 @@
 # Davi-de-Souza-Silva
 ## Olá Mundo! 👋
-Sou apaixonado Programação, tecnologia e Games.
-Sou um Back-end Developer :computer:
+### Sou um Back-end Developer apaixonado por Programação, tecnologia e Games.
 
    &nbsp; Estou trabalhando na **Fatec Santana de Parnaíba**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Backend com Python3
- <br/> :Estou aprendendo novas tecnologias para colaborar com a comunidade
- <br/> :computer: &nbsp; Minha stack: C,Bash(linux),Python3, HTML5, CSS3, JAVASCRIPT.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end com Python3
+ <br/> Estou aprendendo novas tecnologias para colaborar com a comunidade
+ <br/> :computer: &nbsp; Minha stack: C, Bash(linux), Python3, HTML5, CSS3, JAVASCRIPT.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MMORPG, LoL, Filmes, Músicas Animes e Seriados
  <br/> :email: &nbsp; Entre em contato comigo: 
  [Linkedin](https://www.linkedin.com/in/davi-souza-silva-ab329a109/) | [Email](mailto:davi.silva41@fatec.sp.gov.br)
