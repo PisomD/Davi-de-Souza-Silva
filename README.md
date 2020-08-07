@@ -32,3 +32,6 @@
               <ol><a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">C</a></ol>
 
 <p><h2> É isso até +</h2></p>
+<a>
+<img src="https://raw.githubusercontent.com/PisomD/PisomD/master/octocat(1).png">oct</img>
+     </a>
