@@ -33,5 +33,5 @@
 
 <p><h2> É isso até +</h2></p>
 <a>
-<img src="https://raw.githubusercontent.com/PisomD/PisomD/master/octocat(1).png" alt"OCTLOGO DAVI"></img>
+<img  width="600" height"200" src="https://raw.githubusercontent.com/PisomD/PisomD/master/octocat(1).png" alt"OCTLOGO DAVI"></img>
      </a>
