@@ -1,6 +1,6 @@
 # Davi de Souza Silva
 ## Olá Mundo! 👋
-### Sou um Back-end Developer apaixonado por Programação, tecnologia e Games.
+### Sou um Back-end Developer apaixonado por Programação, Tecnologia e Games.
 
    &nbsp; Estou trabalhando de **estagiário** na **Fatec Santana de Parnaíba**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end com Python3
